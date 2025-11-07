@@ -941,21 +941,23 @@ https://mitsuki-dash.b-cdn.net/mirror/starmovies/static.mpd
 
 
 
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
 #EXTINF:-1 tvg-id="anc1" tvg-name="ANC HD (TFC)" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="NEWS CHANNELS",ANC HD (TFC)
 https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="cnninter1" tvg-name="CNN INTERNATIONAL (CON)" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="NEWS CHANNELS",CNN INTERNATIONAL
-http://nocable.cc:8080/5AGbfz/324331/164802
+#EXTINF:-1 tvg-id="cnninter1" tvg-name="CNN INTERNATIONAL (CON)" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="NEWS CHANNELS",CA CNN
+http://nocable.cc:8080/live/5AGbfz/324331/47213.m3u8
+
+#EXTINF:-1 tvg-id="cnninter1" tvg-name="CNN INTERNATIONAL (CON)" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="NEWS CHANNELS",US CNN
+http://nocable.cc:8080/live/5AGbfz/324331/104884.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sky-news-au.png" group-title="NEWS CHANNELS",Skynews
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" group-title="NEWS CHANNELS",Al Jazeera
-http://nocable.cc:8080/5AGbfz/324331/160711
+http://nocable.cc:8080/live/5AGbfz/324331/160711.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="NEWS CHANNELS",AL JAZEERA ENGLISH
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -963,7 +965,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="bbcnewsph1" tvg-name="BBC NEWS (CON)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png" group-title="NEWS CHANNELS",BBC NEWS
-http://nocable.cc:8080/5AGbfz/324331/53757
+http://nocable.cc:8080/live/5AGbfz/324331/53757.m3u8
 
 
 #EXTINF:-1 group-title="NEWS CHANNELS",BBC WORLD NEWS
@@ -982,12 +984,12 @@ https://livetv-fa.tubi.video/abc-news/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="NEWS CHANNELS",CNBC
-http://nocable.cc:8080/5AGbfz/324331/9815
+http://nocable.cc:8080/live/5AGbfz/324331/9815.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="NEWS CHANNELS",CNBC WORLD
-http://nocable.cc:8080/5AGbfz/324331/20860
+http://nocable.cc:8080/live/5AGbfz/324331/20860.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/live-now-fox-us.png" group-title="NEWS CHANNELS", FOX News Now (720p)
