@@ -16,17 +16,23 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbno
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
 
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="PH HayabusaTV",Kapamilya Channel HD
+http://vod.nathcreqtives.com/stream/convergenceinc/kapamilya/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH HayabusaTV", GMA 7(TEST)
 https://stream.honortvph.totalh.net/gma/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH HayabusaTV", GMA 7
-https://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+http://vod.nathcreqtives.com/stream/convergenceinc/gmanetwork/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PH HayabusaTV", GTV
-https://vod.nathcreqtives.com/stream/convergenceinc/gtv/master.m3u8?u=phc&p=dceb8cb821916208321105acde58f049b772f6f2e480d21a23dc195bab864d93
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3f/8e/13/3f8e1369e4053ea6955e179d69d6e1e7.jpg" group-title="PH HayabusaTV", GTV
+http://vod.nathcreqtives.com/stream/convergenceinc/gtv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/8/83/Kapatid_Channel.png" group-title="PH HayabusaTV",Kapatid International (test)
 http://103.244.145.15/live/anita123/anita123/151029.m3u8?token=ShJcU0BbQQNHAAdbVFQGXF9RBgNRBQJRCVtaVVFSUQYGUwZWBwcAW1AbGBpEF0dcWF1vWQIXXlAEU1IFXEgRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest?cb=20230410113026" group-title="PH HayabusaTV",TV5
+http://vod.nathcreqtives.com/stream/convergenceinc/tv5hd/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest?cb=20230410113026" group-title="PH HayabusaTV",TV5(test)
 http://103.244.145.15/live/anita123/anita123/150972.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
@@ -36,6 +42,25 @@ http://103.244.145.15/live/anita123/anita123/151070.m3u8?token=ShJcU0BbQQNHWwZaV
 
 #EXTINF:-1 tvg-id="a2z" tvg-name="A2Z" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/a2z-ph.png" group-title="PH HayabusaTV",A2Z(test)
 http://103.244.145.15/live/anita123/anita123/151010.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA
+
+#EXTINF:13 group-title="PH HayabusaTV" tvg-id="convergenceinc/nbatv" tvg-logo="", NBA TV
+http://vod.nathcreqtives.com/stream/convergenceinc/nbatv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:9 group-title="PH HayabusaTV" tvg-id="convergenceinc/heartofasia" tvg-logo="", Heart Of Asia
+http://vod.nathcreqtives.com/stream/convergenceinc/heartofasia/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:10 group-title="PH HayabusaTV" tvg-id="convergenceinc/ihm" tvg-logo="", I Heart Movies
+http://vod.nathcreqtives.com/stream/convergenceinc/ihm/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:11 group-title="PH HayabusaTV" tvg-id="convergenceinc/jeepneytv" tvg-logo="", Jeepney TV
+http://vod.nathcreqtives.com/stream/convergenceinc/jeepneytv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:1 group-title="PH HayabusaTV" tvg-id="convergenceinc/aniplus" tvg-logo="", Aniplus
+http://vod.nathcreqtives.com/stream/convergenceinc/aniplus/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
+#EXTINF:3 group-title="PH HayabusaTV" tvg-id="convergenceinc/hbo" tvg-logo="", Cinemax
+http://vod.nathcreqtives.com/stream/convergenceinc/hbo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
 
 #EXTINF:-1 tvg-id="tfcasia" tvg-name="TFC ASIA" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="PH HayabusaTV",TFC ASIA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -57,13 +82,23 @@ https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/ind
 #EXTINF:-1 tvg-id="cinemotfc" tvg-name="CINEMO TFC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/cine-mo-ph.png" group-title="PH HayabusaTV",CINEMO TFC
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
+
+#EXTINF:4 group-title="PH HayabusaTV" tvg-id="convergenceinc/cinemo" tvg-logo="" provider="IPTV" provider-logo="" provider-type="iptv", Cinemo!
+http://vod.nathcreqtives.com/stream/convergenceinc/cinemo/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 #EXTINF:-1 tvg-id="gmapinoytv1" tvg-name="GMA PINOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="PH HayabusaTV",GMA PINOY TV
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/61/GMA_Life_TV_Logo_2024.png" group-title="PH HayabusaTV",GMA Life TV
+http://vod.nathcreqtives.com/stream/convergenceinc/gmalifetv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/61/GMA_Life_TV_Logo_2024.png" group-title="PH HayabusaTV",GMA Life TV(test)
 http://103.244.145.15/live/anita123/anita123/151026.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jkU4cLa.png" group-title="PH HayabusaTV",GMA News TV(test)
+http://vod.nathcreqtives.com/stream/convergenceinc/gmanewstv/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jkU4cLa.png" group-title="PH HayabusaTV",GMA News TV(test)
 http://103.244.145.15/live/anita123/anita123/151027.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
@@ -71,11 +106,16 @@ http://103.244.145.15/live/anita123/anita123/151027.m3u8?token=ShJcU0BbQQNHWwZaV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XPAXVUk.png" group-title="PH HayabusaTV",MYX
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
 
+#EXTINF:-1 group-title="PH HayabusaTV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png", Cinema One
+http://vod.nathcreqtives.com/stream/convergenceinc/cinemaone/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
 #EXTINF:-1 group-title="PH HayabusaTV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png", Cinema One
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH HayabusaTV",VIVACINEMA
+http://vod.nathcreqtives.com/stream/convergenceinc/vivacinema/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH HayabusaTV",VIVACINEMA(test)
 http://103.244.145.15/live/anita123/anita123/151090.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
@@ -110,6 +150,19 @@ http://103.244.145.15/live/anita123/anita123/151006.m3u8?token=ShJcU0BbQQNHWwZaV
 #EXTINF:-1 tvg-id="phcathenatv/buko" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/2f/BuKo_Logo_2021.png" group-title="PH HayabusaTV",Buko Channel(test)
 http://103.244.145.15/live/anita123/anita123/151004.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 
+#EXTINF:-1 tvg-id="JEEPNEY.TV.ph" tvg-name="JEEPNEY TV" tvg-logo="https://i.pinimg.com/736x/8d/f4/dd/8df4dda4aaff082dfcccf8a126c7156f.jpg" group-title="PH HayabusaTV", Jeepney TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=90ea4079e02f418db7b170e8763e65f0:1bfe2d166e31d03eee86ee568bd6c272
+https://abslive.akamaized.net/dash/live/2028025/jeepneytv/manifest.mpd
+
+#EXTINF:-1 tvg-name="Arirang Radio" group-title="PH HayabusaTV" tvg-id="Dummy" tvg-logo="https://i.pinimg.com/736x/04/2a/86/042a8613c6432f4788809bb29ef03eba.jpg", Arirang radio
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b3256000_sleng.m3u8
+
+#EXTINF:-1 group-title="PH HayabusaTV" tvg-id="Arirang.ph" tvg-name="Arirang" tvg-logo="https://i.pinimg.com/736x/a6/de/51/a6de518173f4ef3f9207c7acd1ccd04f.jpg", Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://115.146.176.131:80/images/14a646307c92e88856903295e6fa0d5c.png" group-title="PH HayabusaTV",ARIRANG KOREA(test)
 http://103.244.145.15/live/anita123/anita123/151007.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 
@@ -124,6 +177,9 @@ http://103.244.145.15/live/anita123/anita123/151012.m3u8?token=ShJcU0BbQQNHWwZaV
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH HayabusaTV",&Flix
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+
+#EXTINF:-1 ch-number="18" tvg-chno="18" group-title="PH HayabusaTV" tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.pinimg.com/736x/50/79/f8/5079f831761f38544fe7e3d8b941cc42.jpg", HFC
+https://ln.run/4x0dD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pWCWUX2.png" group-title="PH HayabusaTV",JUNGO PINOY TV
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
