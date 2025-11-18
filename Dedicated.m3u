@@ -18,6 +18,15 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 
 
 
+#EXTINF:-1 group-logo="https://www.eastwestbpo.com/wp/wp-content/uploads/2018/03/converge-logo.png",NEWS CHANNELS
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NEWS CHANNELS",CHANNELS NOTICE!!!
+https://drive.usercontent.google.com/download?id=1qNEh-_1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
+
+
+
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
@@ -61,12 +70,39 @@ https://livetv-fa.tubi.video/abc-news/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="NEWS CHANNELS",CNBC
-http://nocable.cc:8080/live/5AGbfz/324331/9815.m3u8
+http://nocable.cc:8080//5AGbfz/324331/9815
+
+#EXTINF:-1 tvg-id="US: CNBC" tvg-name="USA CNBC" tvg-logo="http://epg4you.com/logos/cnbc.png" group-title="NEWS CHANNELS",USA CNBC
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21762.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="NEWS CHANNELS",CNBC WORLD
 http://nocable.cc:8080/live/5AGbfz/324331/20860.m3u8
+
+#EXTINF:-1 tvg-id="US: CNBC WORLD" tvg-name="USA CNBC World LHD" tvg-logo="http://epg4you.com/logos/cnbc.png" group-title="NEWS CHANNELS",USA CNBC World LHD
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21763.m3u8
+
+#EXTINF:-1 tvg-id="US: CNN" tvg-name="USA CNN UHD" tvg-logo="https://www.dropbox.com/s/21h2cx29fnmi2ty/cnn-international-us.png?dl=1" group-title="NEWS CHANNELS",USA CNN UHD
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21764.ts
+
+#EXTINF:-1 tvg-id="CA: CNN INTERNATIONAL" tvg-name="USA CNN INTERNATIONAL" tvg-logo="http://epg4you.com/logos/cnninternational.png" group-title="NEWS CHANNELS",USA CNN INTERNATIONAL
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21765.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA CNN Espanol LHD" tvg-logo="" group-title="NEWS CHANNELS",USA CNN Espanol LHD
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21766.m3u8
+
+#EXTINF:-1 tvg-id="US: ESPNEWS" tvg-name="USA ESPN News UHD" tvg-logo="" group-title="NEWS CHANNELS",USA ESPN News UHD
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21767.m3u8
+
+#EXTINF:-1 tvg-id="US: FOX NEWS EAST" tvg-name="USA Fox News UHD" tvg-logo="http://apk.eternaltv.net/icons/foxnews.png" group-title="NEWS CHANNELS",USA Fox News UHD
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21768.m3u8
+
+#EXTINF:-1 tvg-id="US: FOX BUSINESS" tvg-name="USA Fox Business UHD" tvg-logo="http://epg4you.com/logos/foxbusiness.png" group-title="NEWS CHANNELS",USA Fox Business UHD
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21769.m3u8
+
+#EXTINF:-1 tvg-id="US: MSNBC" tvg-name="USA MSNBC UHD" tvg-logo="" group-title="NEWS CHANNELS",USA MSNBC UHD
+http://supersonictv.live:8080/live/Calvin123/Calvin123/21773.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/live-now-fox-us.png" group-title="NEWS CHANNELS", FOX News Now (720p)
@@ -98,6 +134,7 @@ https://livetv-fa.tubi.video/abc-news/index.m3u8
 https://livetv-fa.tubi.video/kshb2/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-news-now-us.png" group-title="NEWS CHANNELS",NBC News Now (1080p)
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+
 
 
 
