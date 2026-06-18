@@ -4,6 +4,24 @@
 
 
 
+#EXTINF:-1 tvg-id="dlstreams:channel:349" tvg-name="BBC News Channel HD" tvg-logo="" group-title="DLStreams - News & Business",BBC News Channel HD
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A349.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:309" tvg-name="CNBC USA" tvg-logo="" group-title="DLStreams - News & Business",CNBC USA
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A309.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:345" tvg-name="CNN USA" tvg-logo="" group-title="DLStreams - News & Business",CNN USA
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A345.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:297" tvg-name="Fox Business" tvg-logo="" group-title="DLStreams - News & Business",Fox Business
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A297.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:347" tvg-name="Fox News" tvg-logo="" group-title="DLStreams - News & Business",Fox News
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A347.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:323" tvg-name="Headline News" tvg-logo="" group-title="DLStreams - News & Business",Headline News
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A323.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:327" tvg-name="MSNBC" tvg-logo="" group-title="DLStreams - News & Business",MSNBC
+https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A327.m3u8
+#EXTINF:-1 tvg-id="dlstreams:channel:443" tvg-name="Polsat News Poland" tvg-logo="" group-title="DLStreams - News & Business",Polsat News Poland
+
+
+
 
 
 #EXTINF:-1 group-logo="https://i.imgur.com/YDLHnkM.png",PH HayabusaTV
