@@ -4,21 +4,42 @@
 
 
 
-#EXTINF:-1 tvg-id="dlstreams:channel:349" tvg-name="BBC News Channel HD" tvg-logo="" group-title="DLStreams - News & Business",BBC News Channel HD
-https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A349.m3u8
-#EXTINF:-1 tvg-id="dlstreams:channel:309" tvg-name="CNBC USA" tvg-logo="" group-title="DLStreams - News & Business",CNBC USA
-https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A309.m3u8
-#EXTINF:-1 tvg-id="dlstreams:channel:345" tvg-name="CNN USA" tvg-logo="" group-title="DLStreams - News & Business",CNN USA
-https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A345.m3u8
-#EXTINF:-1 tvg-id="dlstreams:channel:297" tvg-name="Fox Business" tvg-logo="" group-title="DLStreams - News & Business",Fox Business
-https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A297.m3u8
-#EXTINF:-1 tvg-id="dlstreams:channel:347" tvg-name="Fox News" tvg-logo="" group-title="DLStreams - News & Business",Fox News
-https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A347.m3u8
-#EXTINF:-1 tvg-id="dlstreams:channel:323" tvg-name="Headline News" tvg-logo="" group-title="DLStreams - News & Business",Headline News
-https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A323.m3u8
-#EXTINF:-1 tvg-id="dlstreams:channel:327" tvg-name="MSNBC" tvg-logo="" group-title="DLStreams - News & Business",MSNBC
-https://flixnest.app/flix-streams/u/jocn7yf4z6fy/live/stream/dlstreams%3Achannel%3A327.m3u8
-#EXTINF:-1 tvg-id="dlstreams:channel:443" tvg-name="Polsat News Poland" tvg-logo="" group-title="DLStreams - News & Business",Polsat News Poland
+#EXTM3U
+#EXTINF:-1 group-title="FOX NEWS",Fox News HD US
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvNTQ1Xw%3D%3D
+#EXTINF:-1 group-title="FOX NEWS",Fox News ES
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTA3NF8%3D
+#EXTINF:-1 group-title="FOX NEWS",Fox News PT
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvOTAwNjdf
+#EXTINF:-1 group-title="FOX NEWS",Fox News TH
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvODMxMV8%3D
+#EXTINF:-1 group-title="FOX NEWS",FOX NEWS FHD VIP Latin America
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTEyNzRf
+#EXTINF:-1 group-title="FOX NEWS",FOX NEWS CA
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvNDU0NjVf
+#EXTINF:-1 group-title="FOX NEWS",Fox News FHD VIP UK
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTA4NjVf
+#EXTINF:-1 group-title="FOX NEWS",FOX News UK
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTc2MF8%3D
+
+#EXTINF:-1 group-title="CNBC",CNBC US
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvNTI1Xw%3D%3D
+#EXTINF:-1 group-title="CNBC",CNBC Europe PT
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvOTAwNjlf
+#EXTINF:-1 group-title="CNBC",CNBC TH
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvODYxNl8%3D
+#EXTINF:-1 group-title="CNBC",CNBC ID
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvNjIyNzNf
+#EXTINF:-1 group-title="CNBC",CNBC CA
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvNDU1MDhf
+#EXTINF:-1 group-title="CNBC",CNBC HD Script UK
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTEyNzI2Xw%3D%3D
+#EXTINF:-1 group-title="CNBC",CNBC Africa AF
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTExMzc4Xw%3D%3D
+#EXTINF:-1 group-title="CNBC",CNBC HD IS
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTExOTU1Xw%3D%3D
+#EXTINF:-1 group-title="CNBC",CNBC Arabiyah ARB
+http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvNDk2NF8%3D
 
 
 
