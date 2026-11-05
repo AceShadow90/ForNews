@@ -2,6 +2,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="Fox News and CNBC",CHANNELS NOTICE!!!
+https://drive.google.com/uc?export=download&id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd
 
 
 #EXTM3U
@@ -11,8 +13,6 @@ http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh
 http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTA3NF8%3D
 #EXTINF:-1 group-title="FOX NEWS",Fox News PT
 http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvOTAwNjdf
-#EXTINF:-1 group-title="FOX NEWS",Fox News TH
-http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvODMxMV8%3D
 #EXTINF:-1 group-title="FOX NEWS",FOX NEWS FHD VIP Latin America
 http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTEyNzRf
 #EXTINF:-1 group-title="FOX NEWS",FOX NEWS CA
@@ -26,152 +26,10 @@ http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh
 http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvNTI1Xw%3D%3D
 #EXTINF:-1 group-title="CNBC",CNBC Europe PT
 http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvOTAwNjlf
-#EXTINF:-1 group-title="CNBC",CNBC TH
-http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvODYxNl8%3D
-#EXTINF:-1 group-title="CNBC",CNBC ID
-http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvNjIyNzNf
 #EXTINF:-1 group-title="CNBC",CNBC CA
 http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvNDU1MDhf
 #EXTINF:-1 group-title="CNBC",CNBC HD Script UK
 http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTEyNzI2Xw%3D%3D
-#EXTINF:-1 group-title="CNBC",CNBC Africa AF
-http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTExMzc4Xw%3D%3D
-#EXTINF:-1 group-title="CNBC",CNBC HD IS
-http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTExOTU1Xw%3D%3D
-#EXTINF:-1 group-title="CNBC",CNBC Arabiyah ARB
-http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvNDk2NF8%3D
 
 
-
-
-
-#EXTINF:-1 group-logo="https://i.imgur.com/YDLHnkM.png",PH HayabusaTV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="PH HayabusaTV",CHANNELS NOTICE
-https://drive.usercontent.google.com/download?id=1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
-
-#EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="LiveNOW from FOX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png" group-title="PH HayabusaTV",LiveNOW from FOX
-https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
-
-#EXTINF:-1 tvg-chno="67" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="PH HayabusaTV",Fox News
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1611
-
-#EXTINF:-1 tvg-chno="29" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="TV",CNBC
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2295
-
-
-
-
-
-
-
-///////////////NEWS CHANNELS///////////
-
-
-
-#EXTINF:-1 group-logo="https://www.eastwestbpo.com/wp/wp-content/uploads/2018/03/converge-logo.png",NEWS CHANNELS
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="NEWS CHANNELS",CHANNELS NOTICE!!!
-https://drive.usercontent.google.com/download?id=1qNEh-_1qNEh-_7Pl2mhUy3sHRMsJINYOCOjgnOd&export=download&authuser=N
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-chno="67" tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="NEWS CHANNELS",Fox News
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/1611
-
-#EXTINF:-1 tvg-chno="29" tvg-id="CNBC.HD.us2" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="NEWS CHANNELS",CNBC
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/2295
-
-#EXTINF:-1 tvg-id="anc1" tvg-name="ANC PH" tvg-logo="https://i.imgur.com/54f9r5A.png" group-title="NEWS CHANNELS",ANC PH
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6d6e536f8fa4d8b93627af0128cf00d:e73c8dcfdea374ae576ced342f6c73a2
-https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS CHANNELS",DZMM TELERADYO
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Euronews_2016_Logo.png" group-title="NEWS CHANNELS",Euronews World
-https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Euronews_2016_Logo.png" group-title="NEWS CHANNELS",Euronews World IWANT
-https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Abante_masthead.svg/500px-Abante_masthead.svg.png" group-title="NEWS CHANNELS",Abante Radyo
-https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png?20240918235353" group-title="NEWS CHANNELS",Bilyonaryo News Channel
-https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.leadstory.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_white.d4deb69a.png&w=640&q=100" group-title="NEWS CHANNELS",Leadstory Breaking News 
-https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.leadstory.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_white.d4deb69a.png&w=640&q=100" group-title="NEWS CHANNELS",Leaderboard Sports News
-https://amg02703-amg02703c20-samsung-ph-9157.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png?20180409235622" group-title="NEWS CHANNELS",France 24
-https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="cnninter1" tvg-name="CNN INTERNATIONAL (CON)" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="NEWS CHANNELS",CNN
-http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sky-news-au.png" group-title="NEWS CHANNELS",Skynews
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="NEWS CHANNELS",Al Jazeera
-http://136.239.173.10:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpIEgcDfK9VMvZFzWy7ZaCtytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001826&contentid=ch00000000000000001826&videoid=ch00000090990000001343&recommendtype=0&userid=1546142827579&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2USMKY0PXD5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 group-title="NEWS CHANNELS",Al Jazeera
-https://amg00222-amg00222c4-amgplt0019.playout.now3.amagi.tv/playlist.m3u8?dnt={{DNT}}&app_bundle={{appPackage}}&app_name={{appName}}&app_store_url={{AppStoreUrl}}&network_name=tinykernel&did={{DID}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&gdpr={{Gdpr}}&us_privacy={{UsPrivacy}}&GdprConsent={{GdprConsent}}&app_domain={{AppDomain}}&coppa={{Coppa}}&app_version={{AppVersion}}&app_cat={{AppCat}}&ifa_type={{IFA_TYPE}}
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/bbc-world-news-int.png" tvg-id="BBCNews.us" tvg-name="BBC_WORLD_NEWS" group-title="NEWS CHANNELS" streamId="6" channel-number="6",BBC World News
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 group-title="NEWS CHANNELS",Bloomberg TV+
-https://837f5f9e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzLWNhX0Jsb29tYmVyZ1RWUGx1c1NhZmVDQV9ITFM/playlist.m3u8?ads.wurl_channel=1683&ads.wurl_name=BloombergTVPlusSafeCA&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.givn=%7BGIVN%7D&ads.u_paln=%7BU_PALN%7D
-
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2022/02/Bloomberg-Emblema.png" group-title="NEWS CHANNELS",BLOOMBERG
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2024/03/bloomberg_logo-freelogovectors.net_.png" group-title="NEWS CHANNELS",BLOOMBERG TV
-https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" group-title="NEWS CHANNELS",CBS NEWS
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NEWS CHANNELS",CNBC
-http://136.239.158.10:6610/001/2/ch00000090990000001344/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApysTfm9HUYOIUKeEg06TC92%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001831&contentid=ch00000000000000001831&videoid=ch00000090990000001344&recommendtype=0&userid=1777990310694&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=C8PY4MIU51HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-id="US: ESPNEWS" tvg-name="USA ESPN News UHD" tvg-logo="" group-title="NEWS CHANNELS",USA ESPN News UHD
-http://supersonictv.live:8080/live/Calvin123/Calvin123/21767.m3u8
-
-#EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="LiveNOW from FOX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png" group-title="NEWS CHANNELS",LiveNOW from FOX
-https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
-
-#EXTINF:-1 tvg-id="US: FOX BUSINESS" tvg-name="USA Fox Business UHD" tvg-logo="http://epg4you.com/logos/foxbusiness.png" group-title="NEWS CHANNELS",USA Fox Business UHD
-http://supersonictv.live:8080/live/Calvin123/Calvin123/21769.m3u8
-
-#EXTINF:-1 tvg-id="US: MSNBC" tvg-name="USA MSNBC UHD" tvg-logo="" group-title="NEWS CHANNELS",USA MSNBC UHD
-http://supersonictv.live:8080/live/Calvin123/Calvin123/21773.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/live-now-fox-us.png" group-title="NEWS CHANNELS", FOX News Now
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="US: FOX NEWS EAST" tvg-name="USA Fox News UHD" tvg-logo="http://apk.eternaltv.net/icons/foxnews.png" group-title="NEWS CHANNELS",USA Fox News UHD
-http://supersonictv.live:8080/live/Calvin123/Calvin123/21768.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/wion-int.png" group-title="NEWS CHANNELS",Wion
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/weather-spy-vod.png" group-title="NEWS CHANNELS",Weather Spy
-https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS CHANNELS",United Nations 🇺🇳 Web Tv
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/accuweather-us.png" group-title="NEWS CHANNELS",The Accuweather Channel
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
