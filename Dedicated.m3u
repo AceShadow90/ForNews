@@ -36,7 +36,8 @@ http://skysmt.com:8080/live/1728393944/1929939394/45682.ts
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox News Channel" tvg-logo="" group-title="FOX NEWS",Fox News Channel
+http://skysmt.com:8080/live/23839393939944/3838494958/222753.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: Fox News Channel" tvg-logo="" group-title="FOX NEWS",US: Fox News Channel
 http://skysmt.com:8080/live/1728393944/1929939394/222753.ts
 #EXTINF:-1 tvg-id="Fox News (210).us" tvg-name="US | FOX NEWS ᴴᴰ" tvg-logo="https://i.ibb.co/9H5JNRrJ/apps-and-products-fox-news-png-logo-0.png" group-title="FOX NEWS",US | FOX NEWS ᴴᴰ
