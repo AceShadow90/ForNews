@@ -31,5 +31,9 @@ http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh
 #EXTINF:-1 group-title="CNBC",CNBC HD Script UK
 http://107.148.225.116:8080/oktay-can-mdiya-hack-streamtv-to.php?cmd=ZmZtcGVnIGh0dHA6Ly9sb2NhbGhvc3QvY2gvMTEyNzI2Xw%3D%3D
 
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="UK | CNBC ᴴᴰ" tvg-logo="https://i.ibb.co/fGmfxV2/download-16-3.png" group-title="UK | NEWS",UK | CNBC ᴴᴰ
+http://skysmt.com:8080/live/1728393944/1929939394/67691.ts
+#EXTINF:-1 tvg-id="CNBC HD.uk" tvg-name="UK | CNBC WORLD ᴴᴰ" tvg-logo="https://i.ibb.co/fGmfxV2/download-16-3.png" group-title="UK | NEWS",UK | CNBC WORLD ᴴᴰ
+http://skysmt.com:8080/live/1728393944/1929939394/67685.ts
 
 
